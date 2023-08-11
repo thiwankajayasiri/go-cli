@@ -1,2 +1,4 @@
-# go-cli
-got cli tool-test-repo
+# GO-Test-Repo
+
+- Go lambda function on AWS
+- Go Test folder 
